@@ -56,7 +56,9 @@ The application uses a SQLite database to store books and questions. Python come
 
 To initialize the database, run the *init-db* command:
 
+```bash
 $ flask init-db
+```
 
 You should see the message *Initialized the database* on the terminal.
 
