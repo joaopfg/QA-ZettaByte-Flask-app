@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Answer{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <p> {{ g.ans }} </p>
+{% endblock %}
