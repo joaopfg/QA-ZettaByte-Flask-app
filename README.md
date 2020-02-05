@@ -11,9 +11,9 @@ For more informations, see the [original Tika repository](https://github.com/chr
 
 # Running the app
 
-You can run the application using the flask command. From the terminal, tell Flask where to find your application, then run it in development mode. Remember, you should still be in the top-level directory, not the flaskr package.
+You can run the application using the flask command. From the terminal, tell Flask where to find the application, then run it in development mode. Remember, you should still be in the top-level directory, not the flaskr package.
 
-Development mode shows an interactive debugger whenever a page raises an exception, and restarts the server whenever you make changes to the code. You can leave it running and just reload the browser page as you follow the tutorial.
+Development mode shows an interactive debugger whenever a page raises an exception, and restarts the server whenever you make changes to the code. You can leave it running and just reload the browser page as you do changes in the code.
 
 For Linux and Mac:
 
